@@ -1,2 +1,6 @@
-# portfolio
-Find all my data related projects here
+# Portfolio
+
+## Market Basket Analysis
+
+## Encryption - Decryption Program
+
