@@ -2,7 +2,9 @@
 Sandra Bullock is my favorite actress (for real my friend's favorite actress) but I'm pretty sure I haven't seen all her movies. I want a table that contains a list of all her movies that I can cross reference when I start binging her movies next week. When you get a chance, I'd love to know more about the box office sales too.
 
 🛠️ What tools did you use? 🛠️\
-I used two Python libraries, Requests and Beautiful Soup
+I used two Python libraries:
+- Requests 
+- Beautiful Soup
 
 😏 What's the result? 😏\
 A csv file with the list of movies and their release year
