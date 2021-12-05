@@ -26,3 +26,4 @@ Low key embarassed to say that it took me a looooooong minute to realize that I 
   ☐ Add column with checkbox so that client can check it off after watching the movie\
   ☐ Use tableau to create graphs using the release year and box office sales\
   ☐ Create a little story with these findings and put into a report
+  ☐ Movie night! 
